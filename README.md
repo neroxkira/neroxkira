@@ -1,7 +1,7 @@
 # 🌟 Hi there, I'm **neroxboys**! 👋
 
 <div align="center">
-  <img src="https://files.catbox.moe/7jfnbg.jpg" alt="neroxboys" width="300" style="border-radius: 50%; border: 4px solid #00ff88; box-shadow: 0 0 20px rgba(0,255,136,0.5);">
+  <img src="https://files.catbox.moe/7jfnbg.jpg" alt="neroxboys" width="500" style="border-radius: 50%; border: 4px solid #00ff88; box-shadow: 0 0 20px rgba(0,255,136,0.5);">
 </div>
 
 <div align="center">
