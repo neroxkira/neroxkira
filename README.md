@@ -175,6 +175,10 @@ graph LR
 ---
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neroxkira&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
 </div>
 
